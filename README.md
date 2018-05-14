@@ -1,11 +1,7 @@
-# Simple Codeigniter REST API
-Simple source code for learning basic backend developer using REST API (login, CRUD).
 
-# Demo
-[Visit Here](https://www.youtube.com/watch?v=MbkMrnisyo4)
 
 # Setup
-Download or clone [Master File](simple-codeigniter-rest-api)
+Download or clone [Master File]
 and then config & import MySQL database 
 
 You can use [POSTMAN](https://www.getpostman.com/) or anything else for simulate frontend
